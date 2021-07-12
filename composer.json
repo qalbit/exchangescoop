@@ -1,0 +1,19 @@
+{
+    "name": "qalbit/exchangescoop",
+    "description": "A simple currency exchange library in PHP using CurrencyScoop.",
+    "type": "library",
+    "license": "MIT",
+    "autoload": {
+        "psr-4": {
+            "ExchangeScoop\\": "src/ExchangeScoop"
+        }
+    },
+    "authors": [
+        {
+            "name": "Abidhusain Chidi",
+            "email": "abidhusain@qalbit.com"
+        }
+    ],
+    "minimum-stability": "stable",
+    "require": {}
+}
