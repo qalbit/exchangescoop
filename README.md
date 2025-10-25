@@ -43,9 +43,9 @@ print_r($converted_amount);
 ## Author
 * Abidhusain Chidi
 * abidhusain@qalbit.com
-* [QalbIT](https://www.qalbit.com)
+* [QalbIT](https://qalbit.com/)
 
 ## Licensing & Support
-Copyright © QalbIT Solution<br>
+Copyright © QalbIT<br>
 Licensed under the MIT license.
 
